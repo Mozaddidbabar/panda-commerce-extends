@@ -1,0 +1,13 @@
+.banner, .review{
+    background-color: rgb(252 234 232);
+}
+.banner-img img{
+    width: 350px;
+    height: 450px;
+}
+.categories img{
+    width: 100px;
+}
+.btn{
+    background-image: linear-gradient(to bottom, rgb(255 88 155) 0%, rgb(255 19 111) 100%);
+}
